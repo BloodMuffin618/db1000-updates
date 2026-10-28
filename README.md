@@ -1,25 +1,34 @@
-# Dragon Block 1000 updates
+# Dragon Block 1000
 
-Updates for an existing DB1000 installation. You do not need to download the full pack again.
+Keep an existing DB1000 pack updated without downloading the entire pack again.
 
-## Players on Windows
+## Install the launcher
 
-Download **DB1000-Updater-Setup.zip** from [the latest release](https://github.com/BloodMuffin618/db1000-updates/releases/latest), extract the complete folder, and open **Dragon Block 1000.exe**.
+Download [Dragon Block 1000 Setup.exe](https://github.com/BloodMuffin618/db1000-updates/releases/latest/download/Dragon.Block.1000.Setup.exe), run it, choose an install folder with **Browse**, and choose **Install**. It adds **Dragon Block 1000** to your desktop with the Shenron icon. You can send that single installer file to friends.
 
-Choose your regular client or Prism installation. The launcher verifies and updates the DB1000 mod before launching. Prism starts the selected game directly. Regular mode opens Minecraft Launcher; use its DB1000 profile and press Play.
+The full DB1000 pack must already be installed once. This installer adds the launcher; it does not install Minecraft, Forge or the full pack. Players do not need a GitHub account.
 
-For automatic updates when using Prism's own Play button, run **Setup-DB1000.cmd** once and choose Prism. For the regular launcher, use Dragon Block 1000 or the desktop shortcut created by setup. Launching the original Minecraft shortcut directly does not run this updater.
+Open **Dragon Block 1000**, choose your client folder and launcher, and press **Play DB1000**:
 
-This update channel currently manages **mods/DB1000-Release-1.0.jar only**. Other mods, resource packs, shader packs, settings, keybinds, worlds, screenshots, servers, and Xaero maps are not changed. You must already have the DB1000 pack installed. Close Minecraft before updating.
+- **Prism:** updates the mod, then starts the selected instance through Prism.
+- **Regular Minecraft Launcher:** updates the mod, then opens Minecraft Launcher. Select the DB1000 profile for that game folder and press Play there.
 
-The setup download contains no account credentials. Players do not need a GitHub account. Minecraft sign-in is handled by the launcher you already use.
+Your existing launcher handles Minecraft sign-in. Close Minecraft before updating. Opening the original Minecraft shortcut directly bypasses this updater.
 
-## Releases
+## Portable alternative and Prism's Play button
 
-The mod keeps its Release 1.0 filename. Updates are identified by a build ID and SHA-256 checksum. A changed mod downloads as a complete JAR; unchanged files are not downloaded. Downloads are staged and checked before the installed file is replaced.
+The [portable launcher ZIP](https://github.com/BloodMuffin618/db1000-updates/releases/latest/download/DB1000-Updater-Setup.zip) is also available. Extract the whole ZIP and open **Dragon Block 1000.exe**; the executable needs its bundled files.
 
-The private server update channel is separate and requires owner access. Do not use the client updater on a dedicated server.
+To update automatically from Prism's own Play button, run **Setup-DB1000.cmd** once and choose Prism. The refreshed DB1000 Prism pack already includes this hook.
+
+## What updates
+
+The update channel manages **mods/DB1000-Release-1.0.jar only**. Other mods, resource packs, shaders, settings, keybinds, worlds, screenshots, server lists and Xaero maps are unchanged. Downloads are staged and checked by size and SHA-256 before replacing the installed mod. An unchanged mod is not downloaded again.
+
+The mod keeps the Release 1.0 filename; a build ID and checksum identify each update. Launcher updates are available through a new installer download. This launcher does not silently replace its own executable.
+
+The private server update channel is separate and requires the owner's GitHub access. Do not use the client updater on a dedicated server.
 
 ## Update engine
 
-The updater uses [packwiz-installer](https://github.com/packwiz/packwiz-installer) v0.5.14 and [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap) v0.0.3, pinned for Java 8. Third-party notices are included in the setup ZIP.
+Uses [packwiz-installer](https://github.com/packwiz/packwiz-installer) v0.5.14 and [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap) v0.0.3, pinned for Java 8. Notices are included. Account credentials are never included in downloads.

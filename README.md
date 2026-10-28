@@ -4,11 +4,11 @@ Updates for an existing DB1000 installation. You do not need to download the ful
 
 ## Players on Windows
 
-Download **DB1000-Updater-Setup.zip** from [the latest release](https://github.com/BloodMuffin618/db1000-updates/releases/latest), extract the complete folder, and open **DB1000 Launcher.exe**.
+Download **DB1000-Updater-Setup.zip** from [the latest release](https://github.com/BloodMuffin618/db1000-updates/releases/latest), extract the complete folder, and open **Dragon Block 1000.exe**.
 
 Choose your regular client or Prism installation. The launcher verifies and updates the DB1000 mod before launching. Prism starts the selected game directly. Regular mode opens Minecraft Launcher; use its DB1000 profile and press Play.
 
-For automatic updates when using Prism's own Play button, run **Setup-DB1000.cmd** once and choose Prism. For the regular launcher, use the DB1000 Launcher or the Play DB1000 shortcut created by setup. Launching the original Minecraft shortcut directly does not run this updater.
+For automatic updates when using Prism's own Play button, run **Setup-DB1000.cmd** once and choose Prism. For the regular launcher, use Dragon Block 1000 or the desktop shortcut created by setup. Launching the original Minecraft shortcut directly does not run this updater.
 
 This update channel currently manages **mods/DB1000-Release-1.0.jar only**. Other mods, resource packs, shader packs, settings, keybinds, worlds, screenshots, servers, and Xaero maps are not changed. You must already have the DB1000 pack installed. Close Minecraft before updating.
 

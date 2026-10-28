@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "db1000.pw.toml"
+metafile = true
+hash = "ec3e69643525573e7edebc74d89e8ad250c245a7caf7ae9d2a8e360d68fb8fed"

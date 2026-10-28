@@ -1,0 +1,8 @@
+name = "Dragon Block 1000"
+filename = "mods/DB1000-Release-1.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/BloodMuffin618/db1000-updates/releases/download/client-2026-10-27-2f527619/DB1000-Release-1.0.jar"
+hash-format = "sha256"
+hash = "2f52761942b7ec580318af202b39faef80b7480aab74f550a7b7503dd9e2385a"

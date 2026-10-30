@@ -1,9 +1,9 @@
 {
-  "build": "release-1.0-343ef63cb6fb",
+  "build": "release-1.0-bc1fef927e90",
   "filename": "mods/DB1000-Release-1.0.jar",
-  "sha256": "626833d8f00ee053502d44d56d8e00bd39c6b170b0d37298bb79106fb7480279",
-  "size": 297169761,
-  "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-343ef63cb6fb/DB1000-Release-1.0.jar",
+  "sha256": "503c69b4c11bdbfb3c7be57bdfa38fa0393f013dc552479cebf6f82f94475738",
+  "size": 297169760,
+  "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-bc1fef927e90/DB1000-Release-1.0.jar",
   "managedFiles": [
     "mods/DB1000-Release-1.0.jar"
   ],

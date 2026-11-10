@@ -3,6 +3,6 @@ filename = "mods/DB1000-Release-1.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-bef962d152eb/DB1000-Release-1.0.jar"
+url = "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-a504c0321b09/DB1000-Release-1.0.jar"
 hash-format = "sha256"
-hash = "bef962d152ebc70bfed35f5a53f6f6301fde9820c3696f2d42989c7378b96e4d"
+hash = "a504c0321b0980d8844d33f4d55db1630b455b8a807507853439a76dd70e52db"

@@ -1,12 +1,12 @@
 name = "DB1000 Client Updates"
 author = "BloodMuffin618"
-version = "release-1.0-be9d2491f0df"
+version = "release-1.0-e96da51c1222"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "329611bfe0d9b8bae2193b7c077564cb1f78aa844379f7b87f26c1d458e07809"
+hash = "273c9aa192a0123f97c61902e7d19c8815992d320c6f95239f65bbf245dcd68d"
 
 [versions]
 minecraft = "1.7.10"

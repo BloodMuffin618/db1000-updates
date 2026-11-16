@@ -3,4 +3,4 @@ hash-format = "sha256"
 [[files]]
 file = "db1000.pw.toml"
 metafile = true
-hash = "1e420ea9e1f0aa5758b91acf477198479a42f9221beda069fbba0129ae0459a9"
+hash = "30c817be598796aff63c0d202226653ae353f4b1136ea7769082a1e1d0bda613"

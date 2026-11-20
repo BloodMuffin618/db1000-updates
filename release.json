@@ -1,9 +1,9 @@
 {
-  "build": "release-1.0-99891fec4f5f",
+  "build": "release-1.0-7187cdfe54e3",
   "filename": "mods/DB1000-Release-1.0.jar",
-  "sha256": "99891fec4f5f6a84801acbb52785e7a4e2ae85041eb836cf7c98f171cda2f05c",
-  "size": 324904663,
-  "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-99891fec4f5f/DB1000-Release-1.0.jar",
+  "sha256": "7187cdfe54e3f404a8939d6093c19216dcd91db2c3191d9f3793c23184bd9ced",
+  "size": 324915003,
+  "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-7187cdfe54e3/DB1000-Release-1.0.jar",
   "managedFiles": [
     "mods/DB1000-Release-1.0.jar"
   ],
@@ -14,7 +14,7 @@
     "sha256": "9f85b64285be506adddd029e47fb86c8948e7bf6ef7ea9e9f8a644e451ddeccd",
     "size": 24407,
     "jarSha256": "55aca4777c75d06008480ea764c75f726d778f0261ea6798a1df878aa863ec9c",
-    "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-99891fec4f5f/DB1000-Startup-Updater.zip",
+    "url": "https://github.com/BloodMuffin618/db1000-updates/releases/download/release-1.0-7187cdfe54e3/DB1000-Startup-Updater.zip",
     "oneTimeInstall": true,
     "clientOnly": true
   }
